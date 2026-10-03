@@ -101,3 +101,4 @@ C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\progra
 C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-4b6fa8cc1a01\CheckoutLog.Tests\obj\Debug\net10.0\CheckoutLog.Tests.pdb
 C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-4b6fa8cc1a01\CheckoutLog.Tests\obj\Debug\net10.0\CheckoutLog.Tests.genruntimeconfig.cache
 C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-4b6fa8cc1a01\CheckoutLog.Tests\obj\Debug\net10.0\ref\CheckoutLog.Tests.dll
+C:\Users\nithy\AutonomousLearning\_projects\ASP.NET-Developer-Path-nyfj8o\programming-fundamentals-csharp-unit-4b6fa8cc1a01\CheckoutLog.Tests\obj\Debug\net10.0\CheckoutLog.Tests.sourcelink.json
